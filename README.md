@@ -1,0 +1,2 @@
+# 187project-rules
+Regulamin
